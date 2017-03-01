@@ -75,6 +75,7 @@ namespace Cats.ViewModels
 
                 }
                 if (Error != null)
+
                 {
                     await Xamarin.Forms.Application.Current.MainPage.DisplayAlert(
                         "Erro!", Error.Message, "OK");

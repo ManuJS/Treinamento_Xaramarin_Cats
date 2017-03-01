@@ -34,11 +34,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats.Windows\bin\Debug\Cats.Windows.exe">
       <PackagePath>Cats.Windows.exe</PackagePath>
-      <Modified>2017-03-01T07:12:39.203</Modified>
+      <Modified>2017-03-01T07:26:53.951</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\bin\Debug\Cats.dll">
       <PackagePath>Cats.dll</PackagePath>
-      <Modified>2017-03-01T07:12:38.035</Modified>
+      <Modified>2017-03-01T07:26:51.426</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>

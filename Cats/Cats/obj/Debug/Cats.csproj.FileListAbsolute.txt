@@ -22,9 +22,4 @@ C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\bin\Debug
 C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\bin\Debug\System.Net.Http.xml
 C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\bin\Debug\System.Net.Http.Extensions.xml
 C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\bin\Debug\System.Net.Http.Primitives.xml
-C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\obj\Debug\Cats.dll.mdb
-C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\bin\Debug\Cats.dll.mdb
-C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\obj\Debug\Cats.dll.mdb
-C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\bin\Debug\Cats.dll.mdb
-C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\obj\Debug\Cats.dll.mdb
-C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\bin\Debug\Cats.dll.mdb
+C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\obj\Debug\Cats.Views.DetailsPage.xaml.g.cs

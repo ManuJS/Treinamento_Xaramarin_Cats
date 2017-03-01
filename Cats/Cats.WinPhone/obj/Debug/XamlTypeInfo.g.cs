@@ -622,3 +622,4 @@ namespace Cats.WinPhone.Cats_WinPhone_XamlTypeInfo
 }
 
 
+
