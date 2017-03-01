@@ -1,0 +1,2 @@
+C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats.Windows\Cats.Windows.csproj;neutral
+C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\Cats.csproj;neutral

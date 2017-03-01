@@ -1,0 +1,2 @@
+C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats.WinPhone\Cats.WinPhone.csproj;neutral
+C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\Cats.csproj;neutral

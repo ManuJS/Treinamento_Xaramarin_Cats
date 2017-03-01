@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>INSPIRION</Machine>
+    <WindowsUser>Novo Adm</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>775f3811-edd2-43d2-b19c-d03d38702c2c</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Novo Adm</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>2F3FB6A98A55220CD4FB7DB22BC9DB41D8F6860032D9C963849B77033721FC50</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>775f3811-edd2-43d2-b19c-d03d38702c2c_1.0.0.0_neutral__355kfr731txma</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>775f3811-edd2-43d2-b19c-d03d38702c2c_355kfr731txma!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>775f3811-edd2-43d2-b19c-d03d38702c2c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Novo Adm</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-01T05:35:10.584</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats.Windows\bin\Debug\Cats.Windows.exe">
+      <PackagePath>Cats.Windows.exe</PackagePath>
+      <Modified>2017-03-01T07:12:39.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\bin\Debug\Cats.dll">
+      <PackagePath>Cats.dll</PackagePath>
+      <Modified>2017-03-01T07:12:38.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-06-14T02:06:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-01T04:53:56.648</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-01T04:53:56.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-01T04:53:56.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-01T04:53:56.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats.Windows\bin\Debug\Cats.Windows.xr.xml">
+      <PackagePath>Cats.Windows.xr.xml</PackagePath>
+      <Modified>2017-03-01T05:35:08.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-03-01T05:35:08.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-03-01T05:35:08.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Novo Adm\documents\visual studio 2015\Projects\Cats\Cats\Cats.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-01T05:35:10.099</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
