@@ -1,11 +1,11 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\novo adm\documents\visual studio 2015\projects\cats\cats\cats.winphone\obj\debug\intermediatexaml\cats.winphone.exe" HashGuid="d30c0efd-313a-4d4a-6f57-dd0062a5a7bb" />
-    <ReferenceAssembly PathName="c:\users\novo adm\documents\visual studio 2015\projects\cats\cats\cats\bin\debug\cats.dll" HashGuid="b91097e6-5a92-9fa0-0590-d56b7f9d2e3f" />
-    <ReferenceAssembly PathName="c:\users\novo adm\documents\visual studio 2015\projects\cats\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.core.dll" HashGuid="2a418b72-55c1-19a8-a363-4b8c348fbee0" />
-    <ReferenceAssembly PathName="c:\users\novo adm\documents\visual studio 2015\projects\cats\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.platform.dll" HashGuid="bb4040f4-26bb-5883-795e-627e39855666" />
-    <ReferenceAssembly PathName="c:\users\novo adm\documents\visual studio 2015\projects\cats\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="068a3578-03d9-2580-f12e-c531e1d2d71c" />
-    <ReferenceAssembly PathName="c:\users\novo adm\documents\visual studio 2015\projects\cats\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="52b59dd3-49ca-beb7-ea1e-5100cbca4812" />
-    <ReferenceAssembly PathName="c:\users\novo adm\documents\visual studio 2015\projects\cats\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="39a2c026-b4e0-6e41-04bc-58950ef1ecfd" />
+    <ReferenceAssembly PathName="c:\users\novo adm\desktop\treinamento_xaramarin_cats\cats\cats\bin\debug\cats.dll" HashGuid="b91097e6-5a92-9fa0-0590-d56b7f9d2e3f" />
+    <ReferenceAssembly PathName="c:\users\novo adm\desktop\treinamento_xaramarin_cats\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.core.dll" HashGuid="2a418b72-55c1-19a8-a363-4b8c348fbee0" />
+    <ReferenceAssembly PathName="c:\users\novo adm\desktop\treinamento_xaramarin_cats\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.platform.dll" HashGuid="bb4040f4-26bb-5883-795e-627e39855666" />
+    <ReferenceAssembly PathName="c:\users\novo adm\desktop\treinamento_xaramarin_cats\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="068a3578-03d9-2580-f12e-c531e1d2d71c" />
+    <ReferenceAssembly PathName="c:\users\novo adm\desktop\treinamento_xaramarin_cats\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="52b59dd3-49ca-beb7-ea1e-5100cbca4812" />
+    <ReferenceAssembly PathName="c:\users\novo adm\desktop\treinamento_xaramarin_cats\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="39a2c026-b4e0-6e41-04bc-58950ef1ecfd" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>
